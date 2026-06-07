@@ -19,3 +19,11 @@ Como el Shelly reporta la energía en Watts-hora (Wh), la conversión a costo es
 ```text
 Costo = (Wh / 1000) × 2.21
 ```
+
+## Dashboard
+![Dashboard de Consumo eléctrico](images/Dashboard.jpeg)
+
+Visualización en New Relic de las métricas recolectadas. Muestra:
+- Potencia actual, promedios y picos (W).
+- Energía acumulada (Wh) y costo estimado (MXN) en períodos de 24h y mensual.
+- Gráficas de tendencia y consumo acumulado diario.
