@@ -21,7 +21,7 @@ Costo = (Wh / 1000) × 2.21
 ```
 
 ## Dashboard
-![Dashboard de Consumo eléctrico](images/Dashboard.jpeg)
+![Dashboard de Consumo eléctrico](images/dashboard.png)
 
 Visualización en New Relic de las métricas recolectadas. Muestra:
 - Potencia actual, promedios y picos (W).
